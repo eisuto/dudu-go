@@ -3,7 +3,7 @@ Beego+gorm的动漫视频弹幕网站(go版本停止开发)
 
 (Java版本移步 https://github.com/eisuto/DuDu)
 
-demo: http://anqiai.cn/ [已失效]
+demo: [已失效]
 
 ## 主页
 
